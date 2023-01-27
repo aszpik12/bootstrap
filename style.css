@@ -1,0 +1,18 @@
+body{
+    background-image: url(hatter.jpg);
+}
+
+main{
+    width: 70%;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+.container>ul>li>a{
+    text-decoration: none;
+}
+
+article{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
